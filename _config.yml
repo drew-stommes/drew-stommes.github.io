@@ -78,7 +78,9 @@ author:
   avatar           : "profile.png"
   text             : "Ph.D. Candidate"
   text             : "Department of Political Science"
-  text             : "Yale University"
+  links:
+    - label: "Yale University"
+      url: "https://politicalscience.yale.edu/"
   location         : 
   employer         : 
   pubmed           : 
