@@ -2,9 +2,11 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
-I primarily study how violence and democracy intersect, drawing on empirical evidence from South Asia. My dissertation/book project conceptualizes "armed political parties" and theorizes the microfoundations of their violence. Other studies examine the effects of democratic reforms (e.g. quotas for marginalized groups) during civil war and the myriad "wartime political parties" which contest elections during insurgent conflicts. This strand of research relies heavily on mixed-methods research designs and novel quantitative/qualitative evidence from South Asia.
+**Selected Projects**
 
-A second strand of research explores increasingly-popular quantitative methods in political science. One study investigates the reliability of published political science research employing the regression discontinuity design, and another study derives a principled, data-driven case selection procedure for regression discontinuity studies aiming to integrate qualitative evidence.
+[Descriptive Representation and Conflict Reduction: Evidence from India's Maoist Rebellion](https://osf.io/preprints/socarxiv/gfh3m)
+
+Can greater inclusion in democracy for historically-disadvantaged groups reduce rebelviolence? Democracy­building is a common tool of modern counterinsurgencies, despite so-far limited evidence about whether and how during-conflict institutional reforms mitigateviolence. We evaluate whether quotas for Scheduled Tribes in local councils reduced rebelviolence in two Maoist insurgency-affected Indian states, Chhattisgarh and Jharkhand. Weemploy a geographic regression discontinuity design to study the effects of identical quotas inthe two states, finding that reservations reduced Maoist violence in Chhattisgarh, but yield aprecisely­estimated null effect in neighboring Jharkhand. Based on qualitative evidence fromChhattisgarh, we argue that quotas reduce violence when they bring local elected officialscloser to state security forces, providing a windfall of valuable information tocounterinsurgents. Our study shows how institutional engineering can alter the politicaleconomy of information provision, which in turn can shape the trajectory of a conflict.
