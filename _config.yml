@@ -76,12 +76,14 @@ analytics:
 author:
   name             : "Drew Stommes"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate, Department of Political Science"
-  location         : "Location"
-  employer         : "Yale University"
+  text             : <p style="text-align: center;">"Ph.D. Candidate"</p> 
+  text             : "Department of Political Science"
+  text             : "Yale University"
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "drew.stommes@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
