@@ -6,4 +6,4 @@ redirect_from:
   - /resume
 ---
 
-My latest CV can be found [here](http://drew-stommes.github.io/files/cv.pdf).
+My latest CV can be found [here](http://drew-stommes.github.io/files/stommes_cv_dec2020.pdf).
