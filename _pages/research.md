@@ -6,7 +6,7 @@ author_profile: false
 
 **Selected Projects**
 
-<hr style="border:2px solid black">
+<hr style="border:1px solid black">
 
 [Descriptive Representation and Conflict Reduction: Evidence from India's Maoist Rebellion](https://osf.io/preprints/socarxiv/gfh3m)
 
