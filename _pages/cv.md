@@ -2,9 +2,9 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-Link to latest CV here.
+My latest CV can be found here.
