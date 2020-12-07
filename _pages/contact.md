@@ -4,8 +4,6 @@ permalink: /contact/
 author_profile: false
 ---
 
-Email: 
+Email: <drew.stommes@yale.edu>
 
-Phone:
-
-Mailing Address:
+Phone: +1(320)310-9899
