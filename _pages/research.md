@@ -8,7 +8,9 @@ author_profile: false
 
 <hr style="border:1px solid black">
 
+ <font size="11">
 [Descriptive Representation and Conflict Reduction: Evidence from India's Maoist Rebellion](https://osf.io/preprints/socarxiv/gfh3m). (with Aidan Milliff). *Under Review*.
+ 
 
 <details><summary>Abstract</summary>
 <p>
@@ -18,6 +20,8 @@ Can greater inclusion in democracy for historically-disadvantaged groups reduce 
    </div>
 </p>
 </details>
+
+  </font>
    
 <hr style="border:.25px solid grey">
 
