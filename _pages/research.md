@@ -28,7 +28,9 @@ Can greater inclusion in democracy for historically-disadvantaged groups reduce 
 
 <details><summary>Abstract</summary>
 <p>
-   
+
+<div style="text-align: justify"> 
 National and state-level security forces across India operate against insurgents, criminals, and external threats. These operations are politically consequential, yet these forces tend to be quite opaque. This article provides new data on the fatalities that these forces have suffered in order to explore the location and nature of political violence in India. We create several new datasets of security force fatalities extracted from commemorative security force “martyrs” documents and online databases published by Indian state-level police organizations, the Ministry of Home Affairs (MHA), and the Ministry of Defence, as well as semi-official sources. The data vary wildly in quality and detail, and there are serious limits to their use. Nevertheless, they allow us to – with caveats – measure the location and incidence of violence, as well as the demographic underpinnings of the Indian Army, the two largest MHA paramilitaries, and several state police forces. Caveats aside, we anticipate that subsets of these data are sufficiently high in quality, facilitating future rigorous quantitative analysis on political violence in India. The entire dataset will be made publicly available.
+   </div>
 </p>
 </details>
