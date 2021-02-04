@@ -6,7 +6,22 @@ author_profile: false
 
 **Selected Projects**
 
+
 <hr style="border:1px solid black">
+
+Civil Wartime Political Parties: Evidence from Four Rebellions in India. *Under Review*. 
+ 
+
+<details><summary>Abstract</summary>
+<p>
+
+<div style="text-align: justify"> 
+Political parties contest elections during civil wars, yet existing research does not sufficiently describe these parties nor evaluate the consequences of their electoral performance for democracy. This study conceptualizes wartime parties based on their position along the conflict’s master cleavage and whether they support the long-term persistence of existing democratic institutions. Among these parties, those exhibiting overlap with insurgents' ideology and supportive of existing democratic institutions uniquely face pressures from counterinsurgents and rebels. Regression discontinuity analyses and qualitative evidence from four civil wars in India demonstrate that counterinsurgents and rebels intensified operations and threats in regions where these aligned parties were electorally successful, significantly reducing subsequent voter turnout. However, analyses indicate that no wartime party types reap an incumbency advantage vis-\'a-vis other parties or relative to their peacetime performance. The findings suggest the importance of political parties in understanding wartime democracy and the limits of wartime polarization.
+   </div>
+</p>
+</details>
+
+<hr style="border:.25px solid grey">
 
 [Descriptive Representation and Conflict Reduction: Evidence from India's Maoist Rebellion](https://osf.io/preprints/socarxiv/gfh3m). (with Aidan Milliff). *Under Review*. 
  
@@ -19,8 +34,6 @@ Can greater inclusion in democracy for historically-disadvantaged groups reduce 
    </div>
 </p>
 </details>
-
- 
    
 <hr style="border:.25px solid grey">
 
