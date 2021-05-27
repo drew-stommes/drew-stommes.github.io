@@ -9,7 +9,7 @@ author_profile: false
 
 <hr style="border:1px solid black">
 
-Civil Wartime Political Parties: Evidence from Four Rebellions in India. *Under Review*. 
+[Civil Wartime Political Parties: Evidence from Four Rebellions in India](https://osf.io/preprints/socarxiv/69jtu/). *Under Review*. 
  
 
 <details><summary>Abstract</summary>
